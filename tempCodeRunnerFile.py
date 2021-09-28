@@ -1,0 +1,1 @@
+cv2.imshow('BW  Clever Programmer', grayscaled_image)
